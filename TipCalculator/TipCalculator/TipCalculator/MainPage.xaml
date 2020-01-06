@@ -11,6 +11,8 @@
         <Label Text="Hello World!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text="Accept"
+                VerticalOptions="EndAndExpand"/>
     </StackLayout>
 
 </ContentPage>
